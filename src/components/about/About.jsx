@@ -1,7 +1,6 @@
 import "./About.scss"
 
 import photo from "../assets/photo.jpg";
-import Curriculo from "../assets/CurriculoJosielJaschke.pdf"
 
 import { motion } from "framer-motion";
 
