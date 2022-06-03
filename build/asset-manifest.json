@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08a6d0ae.css",
+    "main.js": "/static/js/main.a0d6984b.js",
+    "static/media/Portf.png": "/static/media/Portf.189979e03b0c3f58c65f.png",
+    "static/media/photo.jpg": "/static/media/photo.d1b0d7ff1a89b64f7e43.jpg",
+    "static/media/3d.png": "/static/media/3d.199405fbc6cc98ee28ac.png",
+    "static/media/Pokefun.png": "/static/media/Pokefun.b3c2254118c80e6b42f0.png",
+    "static/media/alert.png": "/static/media/alert.01495bdf16b2108b6531.png",
+    "static/media/CurriculoJosielJaschke.pdf": "/static/media/CurriculoJosielJaschke.6a203490e4d4978a396d.pdf",
+    "index.html": "/index.html",
+    "main.08a6d0ae.css.map": "/static/css/main.08a6d0ae.css.map",
+    "main.a0d6984b.js.map": "/static/js/main.a0d6984b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a6d0ae.css",
+    "static/js/main.a0d6984b.js"
+  ]
+}
