@@ -1,0 +1,17 @@
+.footer-container{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    svg{
+        color: #ffffff;
+    }
+    p{
+        color: #ffffff;
+        font-family: Inter;
+        font-weight: bold;
+        font-size: 12px;
+        margin-left: 2px;
+        margin-right: 30px;
+    }
+}
