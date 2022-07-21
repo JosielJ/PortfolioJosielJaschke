@@ -4,10 +4,12 @@ import { motion } from "framer-motion";
 
 import { FiGithub } from "react-icons/fi"
 import { MdCatchingPokemon, MdWeb } from "react-icons/md"
+import { BsController } from "react-icons/bs"
 
 import pokefun from "../assets/Pokefun.png";
 import threejs from "../assets/3d.png";
 import porft from "../assets/Portf.png"
+import fun from "../assets/Fun.png"
 
 function Proj(){
     return(
@@ -71,6 +73,21 @@ function Proj(){
                             </motion.button>
                         </div>
                     </div>
+                    <div className="proj-projs">
+                        <div className="proj-img-3">
+                            <img src={fun} alt="Portfólio"/>
+                        </div>
+                        <div className="proj-text">
+                            <p>Jogo feito para uma GameJam em 2021, feito no Unity com C#.</p>
+                        </div>
+                        <div className="proj-buttons">
+                            <motion.button whileHover={{cursor: "pointer", scale: 1.02}} whileTap={{scale: 0.98, background: "linear-gradient(90deg, #297d93 0%, #297d93 100%) border-box"}} className="proj-button-gh" onClick={() => window.open("https://zanzador.itch.io/fun-in-my-room", '_blank')}>
+                            <BsController/>
+                                <h1 className="proj-button-gh-text">Download</h1>
+                            </motion.button>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </div>
